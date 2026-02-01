@@ -1,0 +1,33 @@
+Loan Manager Pro: User Guide
+Welcome to Loan Manager Pro. This app is designed to help small lenders track loans, calculate precise interest, and generate professional vouchers directly from their mobile devices.
+1. Initial Setup (Install as an App)
+For the best experience on iPad or iPhone, do not use the app inside the Safari browser bars:
+1. Open your GitHub Live Link in Safari.
+2. Tap the Share button (square with an arrow).
+3. Select "Add to Home Screen".
+4. Open the app from your home screen icon for a full-screen, professional feel.
+2. Recording a New Loan
+1. Enter Details: Go to the Lending tab. Enter the Borrower’s Name, Start Date, Principal Amount, and Monthly Interest Rate.
+2. Generate Draft: If you want to send a record immediately upon giving the money, tap Generate Lending Receipt.
+3. Share: Tap Share as Image to send a clean voucher to the borrower via Viber, WhatsApp, or Messenger.
+3. Calculating Repayments
+When a borrower is ready to pay you back:
+1. Go to the History list and find the borrower.
+2. Tap Edit to pull their data into the calculator.
+3. Switch to the Calculation tab.
+4. Select the Repayment Date. The app will automatically calculate:
+• Duration: (e.g., 2 Months & 5 Days).
+• Interest: Based on your monthly rate.
+• Total Due: Principal + Interest.
+5. Tap Save to History to update your records.
+4. Generating Final Vouchers
+1. From the Calculation tab, tap View Final Voucher.
+2. Review the details on the Receipt tab.
+3. Tap Share as Image. This creates a high-quality photo of the voucher that you can send as "Proof of Settlement."
+5. Managing Your Portfolio
+• Search: Use the search bar in the History tab to find borrowers by name.
+• Settling: Once a borrower has paid in full, tap the Settle button. This will grey out the entry and remove the amount from your Active Dashboard totals.
+• Dashboard: Check the top of your History tab to see exactly how much money you currently have "on the street" (Total Outstanding).
+Important Security Note
+• Privacy: This app uses Local Storage. Your data is saved only on your specific device.
+• Backups: If you clear your browser history or "Reset" your iPad, your data may be lost. It is recommended to take screenshots of your history list once a week for safety.
